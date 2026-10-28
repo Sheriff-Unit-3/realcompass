@@ -1,0 +1,6 @@
+{
+	"$schema": "https://content.luanti.org/api/cdb_schema/",
+	"type": "MOD",
+	"title": "Realcompass",
+	"short_description": "A compass that points north only, like a real compass."
+}
