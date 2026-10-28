@@ -1,0 +1,28 @@
+version = 1
+
+# CC-BY-SA-3.0
+[[annotations]]
+path = [
+	"textures/**",
+]
+SPDX-FileCopyrightText = [
+	"tacotexmex","kestral246"
+]
+SPDX-License-Identifier = "CC-BY-SA-3.0"
+
+# CC0
+[[annotations]]
+path = [
+	".luacheckrc",
+	".github/**",
+	".gitattributes",
+	".cdb.json",
+	"locale/**",
+	"settingtypes.txt",
+	"mod.conf",
+	"README.md",
+	"*.lua",
+	"screenshot.png",
+]
+SPDX-FileCopyrightText = "NONE"
+SPDX-License-Identifier = "CC0-1.0"
