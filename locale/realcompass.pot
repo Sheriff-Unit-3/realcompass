@@ -1,0 +1,14 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: realcompass\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: mod.conf
+msgid "Realcompass"
+msgstr ""
+
+#: mod.conf
+msgid "A simple compass that only points north."
+msgstr ""
