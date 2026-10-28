@@ -1,0 +1,2 @@
+# With a compass (item) in a player's inventory a HUD compass will appear on their crosshair
+realcompass.hud (Enable HUD compass) bool false
